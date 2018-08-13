@@ -11,7 +11,7 @@ while True:
         print("OUT OF BOUNDS")
         continue
     if x==y:
-        print ('CONGRATULATIONS, YOU GUESSED IT IN ONLY' + " " +str(len(l))+ " "+ 'GUESSES!!')
+        print ('CONGRATULATIONS, YOU GUESSED IT IN ONLY ' +str(len(l))+ ' GUESSES!!')
         break
     
     l.append(x)
