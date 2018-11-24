@@ -1,2 +1,2 @@
-# Python-practice
+# Python
 Phyton codes used in excercises
